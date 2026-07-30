@@ -1,0 +1,38 @@
+:root {
+  --codegraph-color-background: #ffffff;
+  --codegraph-color-surface: #ffffff;
+  --codegraph-color-surface-muted: #f1f5f9;
+  --codegraph-color-text: #0f172a;
+  --codegraph-color-text-muted: #64748b;
+  --codegraph-color-border: #e2e8f0;
+  --codegraph-color-primary: #3b82f6;
+  --codegraph-color-success: #10b981;
+
+  --codegraph-spacing-xs: 0.25rem;
+  --codegraph-spacing-sm: 0.5rem;
+  --codegraph-spacing-md: 1rem;
+  --codegraph-spacing-lg: 1.5rem;
+
+  --codegraph-radius-sm: 0.25rem;
+  --codegraph-radius-md: 0.5rem;
+  --codegraph-radius-lg: 0.75rem;
+  --codegraph-radius-full: 9999px;
+
+  --codegraph-font-size-xs: 0.75rem;
+  --codegraph-font-size-sm: 0.875rem;
+  --codegraph-font-size-md: 1rem;
+  --codegraph-font-size-lg: 1.125rem;
+  --codegraph-font-size-2xl: 1.5rem;
+
+  --codegraph-font-weight-medium: 500;
+  --codegraph-font-weight-semibold: 600;
+  --codegraph-font-weight-bold: 700;
+
+  --codegraph-font-family-base: 'Instrument Sans', system-ui, sans-serif;
+  --codegraph-font-family-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+
+  --codegraph-font-line-height-normal: 1.5;
+
+  --codegraph-z-sticky: 2;
+  --codegraph-z-tooltip: 1000;
+}
